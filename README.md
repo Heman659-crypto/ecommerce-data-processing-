@@ -128,7 +128,7 @@ engineered columns:
 
 ### Option B — Local Jupyter Notebook
 ```bash
-git clone https://github.com/<your-username>/ecommerce-data-processing.git
+git clone https://github.com/Heman659-crypto/ecommerce-data-processing.git
 cd ecommerce-data-processing
 
 python -m venv venv
